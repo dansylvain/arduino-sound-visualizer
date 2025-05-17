@@ -2,7 +2,7 @@
 Real-time sound visualizer using Python and Arduino. Captures audio volume in Python and displays it on LEDs via Arduino.
 
 <p align="center">
-  <img src="img/arduino-sound-visualizer.jpg" width="70%"/>
+  <img src="img/arduino-sound-visualizer.gif" width="70%"/>
 </p>
 
 ### 🎧 Visualiser le son avec Arduino : un ruban de LEDs contrôlé par le volume
